@@ -1,0 +1,44 @@
+[
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 999120.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "NoLicense",
+    "fine_amount": 3540.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ALCOHOL",
+    "fine_amount": 34330.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "ALCOHOL",
+    "fine_amount": 62340.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "CrossingTheSolidLine",
+    "fine_amount": 633.00
+  },
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "NoInsurance",
+    "fine_amount": 1444.00
+  }
+]
